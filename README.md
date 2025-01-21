@@ -55,19 +55,65 @@ O próximo passo será a implementação do backend para fornecer suporte às fu
 ---
 
 ## Telas do APP - NutriVerde
-<img src="./assets/tela-login.png" alt="Tela Login" width="300" height="500">
-<img src="./assets/tela-cadastro.png" alt="Tela Cadastro" width="300" height="500">
-<img src="./assets/tela-esqueceu-senha.png" alt="Tela Esqueceu Senha" width="300" height="500">
-<img src="./assets/tela-alter-senha.png" alt="Tela alterar senha" width="300" height="500">
-<img src="./assets/tela-home.png" alt="Tela Home" width="300" height="500">
-<img src="./assets/tela-carrinho.png" alt="Tela Carrinho" width="300" height="500">
-<img src="./assets/tela-pagamento.png" alt="Tela Pagamento" width="300" height="500">
-<img src="./assets/tela-pagamento-2.png" alt="Tela Confirmação Tipo Pagamento" width="300" height="500">
-<img src="./assets/tela-config.png" alt="Tela Configuração" width="300" height="500">
-<img src="./assets/tela-perfil.png" alt="Tela Perfil" width="300" height="500">
-<img src="./assets/tela-estoque.png" alt="Tela Estoque" width="300" height="500">
-<img src="./assets/tela-estoque-2.png" alt="Tela Ajustar Estoque" width="300" height="500">
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-login.png" alt="Tela Login" width="300" height="500">
+    <img src="./assets/tela-cadastro.png" alt="Tela Cadastro" width="300" height="500">
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-esqueceu-senha.png" alt="Tela Esqueceu Senha" width="300" height="500">
+    <img src="./assets/tela-alter-senha.png" alt="Tela alterar senha" width="300" height="500">
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-home.png" alt="Tela Home" width="300" height="500">
+    <img src="./assets/tela-carrinho.png" alt="Tela Carrinho" width="300" height="500">
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-pagamento.png" alt="Tela Pagamento" width="300" height="500">
+    <img src="./assets/tela-pagamento-2.png" alt="Tela Confirmação Tipo Pagamento" width="300" height="500">
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-config.png" alt="Tela Configuração" width="300" height="500">
+    <img src="./assets/tela-perfil.png" alt="Tela Perfil" width="300" height="500"> 
+</div>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./assets/tela-estoque.png" alt="Tela Estoque" width="300" height="500">
+    <img src="./assets/tela-estoque-2.png" alt="Tela Ajustar Estoque" width="300" height="500">
+</div>
 
 ---
+
+# Stack Utilizada
+
+Este projeto está sendo desenvolvido utilizando as seguintes tecnologias:
+
+## Front-end
+- **React Native**: Framework para desenvolvimento de aplicativos móveis nativos.
+- **JavaScript/TypeScript**: Linguagem principal utilizada no desenvolvimento.
+- **React Navigation**: Biblioteca para navegação dentro do app React Native.
+- **Styled-Components**: Para criação de componentes estilizados com JavaScript.
+  
+## Back-end
+- **Node.js**: Plataforma para execução do código JavaScript no servidor.
+- **FastAPI**: Framework para criação de APIs RESTful.
+  
+## Ferramentas de Desenvolvimento
+- **Git**: Sistema de controle de versão utilizado para o gerenciamento do código-fonte.
+
+  
+## Testes
+    ...
+
+## Outras Tecnologias
+- **ESLint**: Ferramenta para análise estática de código e detecção de problemas no JavaScript.
+
+## Ambiente de Desenvolvimento
+- **Visual Studio Code**: Editor de código utilizado para o desenvolvimento.
+- **Postman**: Ferramenta para testar APIs.
+
+## Deployment
+    ...
+
+
+
 
